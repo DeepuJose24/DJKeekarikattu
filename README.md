@@ -2,7 +2,7 @@
 
 
 # Deepu Jose
-Assistant Professor - Electrical & Electronics Engineering Department
+Assistant Professor - Electrical & Electronics Engineering Department,
 SAINTGITS College of Engineering, Kottayam
 deepujose24@gmail.com , deepu.jose@saintgits.org
 
