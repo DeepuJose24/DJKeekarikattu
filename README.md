@@ -1,8 +1,8 @@
-- 👋 Hi, I’m DeepunJose
+- 👋 Hi, I’m Deepu Jose
 - 👀 I’m interested in Smart Grid
 - 🌱 I’m currently learning Machine Learning applic ations in DSM
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 deepujose24@gmail.com , deepu.jose@saintgits.org
 
 <!---
 DJKeekarikattu/DJKeekarikattu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
